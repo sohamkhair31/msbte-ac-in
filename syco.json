@@ -1,0 +1,260 @@
+
+{
+  "semester": 4,
+  "totalMaxMarks": 850,
+  "totalCredits": 20,
+  "subjects": [
+    {
+      "srNo": 1,
+      "courseTitle": "Environmental Education and Sustainability",
+      "abbreviation": "EES",
+      "courseType": "VEC",
+      "courseCode": "314301",
+      "iksHours": 2,
+      "cl": 3,
+      "tl": 0,
+      "ll": 0,
+      "selfLearning": 1,
+      "notionalLearning": 4,
+      "credits": 2,
+      "paperDuration": 1.5,
+      "assessment": {
+        "faTh": {
+          "max": 30,
+          "min": null,
+          "obt": ""
+        },
+        "saTh": {
+          "max": 70,
+          "min": null,
+          "obt": ""
+        },
+        "theoryTotal": {
+          "max": 100,
+          "min": 40,
+          "obt": ""
+        },
+        "faPr": null,
+        "saPr": null,
+        "sla": {
+          "max": 25,
+          "min": 10,
+          "obt": ""
+        }
+      },
+      "subjectMaxMarks": 125
+    },
+    {
+      "srNo": 2,
+      "courseTitle": "Java Programming",
+      "abbreviation": "JPR",
+      "courseType": "AEC",
+      "courseCode": "314317",
+      "iksHours": 0,
+      "cl": 4,
+      "tl": 0,
+      "ll": 4,
+      "selfLearning": 2,
+      "notionalLearning": 10,
+      "credits": 5,
+      "paperDuration": 3,
+      "assessment": {
+        "faTh": {
+          "max": 30,
+          "min": null,
+          "obt": ""
+        },
+        "saTh": {
+          "max": 70,
+          "min": null,
+          "obt": ""
+        },
+        "theoryTotal": {
+          "max": 100,
+          "min": 40,
+          "obt": ""
+        },
+        "faPr": {
+          "max": 25,
+          "min": 10,
+          "obt": ""
+        },
+        "saPr": {
+          "max": 50,
+          "min": 20,
+          "obt": ""
+        },
+        "sla": {
+          "max": 25,
+          "min": 10,
+          "obt": ""
+        }
+      },
+      "subjectMaxMarks": 200
+    },
+    {
+      "srNo": 3,
+      "courseTitle": "Data Communication and Computer Network",
+      "abbreviation": "DCN",
+      "courseType": "DSC",
+      "courseCode": "314318",
+      "iksHours": 0,
+      "cl": 3,
+      "tl": 0,
+      "ll": 4,
+      "selfLearning": 1,
+      "notionalLearning": 8,
+      "credits": 4,
+      "paperDuration": 3,
+      "assessment": {
+        "faTh": {
+          "max": 30,
+          "min": null,
+          "obt": ""
+        },
+        "saTh": {
+          "max": 70,
+          "min": null,
+          "obt": ""
+        },
+        "theoryTotal": {
+          "max": 100,
+          "min": 40,
+          "obt": ""
+        },
+        "faPr": {
+          "max": 25,
+          "min": 10,
+          "obt": ""
+        },
+        "saPr": {
+          "max": 25,
+          "min": 10,
+          "obt": ""
+        },
+        "sla": {
+          "max": 25,
+          "min": 10,
+          "obt": ""
+        }
+      },
+      "subjectMaxMarks": 175
+    },
+    {
+      "srNo": 4,
+      "courseTitle": "Microprocessor Programming",
+      "abbreviation": "MIC",
+      "courseType": "DSC",
+      "courseCode": "314321",
+      "iksHours": 0,
+      "cl": 3,
+      "tl": 0,
+      "ll": 2,
+      "selfLearning": 1,
+      "notionalLearning": 6,
+      "credits": 3,
+      "paperDuration": 3,
+      "assessment": {
+        "faTh": {
+          "max": 30,
+          "min": null,
+          "obt": ""
+        },
+        "saTh": {
+          "max": 70,
+          "min": null,
+          "obt": ""
+        },
+        "theoryTotal": {
+          "max": 100,
+          "min": 40,
+          "obt": ""
+        },
+        "faPr": {
+          "max": 25,
+          "min": 10,
+          "obt": ""
+        },
+        "saPr": {
+          "max": 25,
+          "min": 10,
+          "obt": ""
+        },
+        "sla": {
+          "max": 25,
+          "min": 10,
+          "obt": ""
+        }
+      },
+      "subjectMaxMarks": 175
+    },
+    {
+      "srNo": 5,
+      "courseTitle": "Python Programming",
+      "abbreviation": "PWP",
+      "courseType": "AEC",
+      "courseCode": "314004",
+      "iksHours": 0,
+      "cl": 2,
+      "tl": 0,
+      "ll": 4,
+      "selfLearning": 0,
+      "notionalLearning": 6,
+      "credits": 3,
+      "paperDuration": null,
+      "assessment": {
+        "faTh": null,
+        "saTh": null,
+        "theoryTotal": null,
+        "faPr": {
+          "max": 50,
+          "min": 20,
+          "obt": ""
+        },
+        "saPr": {
+          "max": 50,
+          "min": 20,
+          "obt": ""
+        },
+        "sla": null
+      },
+      "subjectMaxMarks": 100
+    },
+    {
+      "srNo": 6,
+      "courseTitle": "UI/UX Design",
+      "abbreviation": "UID",
+      "courseType": "SEC",
+      "courseCode": "314005",
+      "iksHours": 0,
+      "cl": 1,
+      "tl": 0,
+      "ll": 4,
+      "selfLearning": 1,
+      "notionalLearning": 6,
+      "credits": 3,
+      "paperDuration": null,
+      "assessment": {
+        "faTh": null,
+        "saTh": null,
+        "theoryTotal": null,
+        "faPr": {
+          "max": 25,
+          "min": 10,
+          "obt": ""
+        },
+        "saPr": {
+          "max": 25,
+          "min": 10,
+          "obt": ""
+        },
+        "sla": {
+          "max": 25,
+          "min": 10,
+          "obt": ""
+        }
+      },
+      "subjectMaxMarks": 75
+    }
+  ]
+}

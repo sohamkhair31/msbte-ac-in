@@ -1,0 +1,40 @@
+{
+  "instructions": [
+    "Report discrepancy in this certificate to Head of the institution.",
+    "This certificate of marks is issued as per prevailing rules and regulations of MSBTE at the time of this exam.",
+    "Eligibility for III semester is based on total number of failure subjects in I & II semesters taken together.",
+    "Candidate is eligible for admission to V/VII Semester only if he/she is fully passed in I & II / III & IV semesters and availed benefit of A.T.K.T/PASS at II & IV / V & VI semesters taken together respectively.",
+    "Class awarded for Diploma is based on aggregate marks obtained in pre-final & final semester."
+  ],
+  "abbreviations": {
+    "TH": "Theory",
+    "PR": "Practical",
+    "FA": "Formative Assessment",
+    "SA": "Summative Assessment",
+    "SLA": "Self Learning Assessment",
+
+    "MAX": "Maximum Marks",
+    "OBT": "Obtained Marks",
+
+    "AB": "Absent",
+    "EX": "Exemption",
+    "LSP": "Lower Semester Pending",
+    "PLY": "Pending Lower Year",
+
+    "@": "Condoned Marks",
+    "*": "Failure Marks",
+    "#": "Carry Forward Marks",
+
+    "WFLS": "With Held On account of Lower Semester Pending",
+    "WFLY": "With Held On account of Lower Year Pending",
+
+    "CON": "Condoned",
+    "%": "Percentage of Marks",
+    "A.T.K.T": "Allowed to Keep Term",
+    "†": "Credits of this Skill Based Course considered for First Year Exit"
+  },
+  "passingRule": "Minimum 40% of Maximum marks required to pass in respective passing head separately",
+  "resultDeclaredFormat": "DD/MM/YYYY",
+  "officialWebsite": "https://msbte.ac.in",
+  "footerText": "E & OE"
+}

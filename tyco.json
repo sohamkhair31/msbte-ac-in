@@ -1,0 +1,138 @@
+{
+  "semester": 6,
+  "totalMaxMarks": 850,
+  "totalCredits": 20,
+  "electiveSelected": {
+    "courseCode": "316316",
+    "courseTitle": "Machine Learning",
+    "abbreviation": "MAL"
+  },
+  "subjects": [
+    {
+      "srNo": 1,
+      "courseTitle": "Management",
+      "abbreviation": "MAN",
+      "courseType": "AEC",
+      "courseCode": "315301",
+      "credits": 2,
+      "paperDuration": 1.5,
+      "assessment": {
+        "faTh": { "max": 30, "obt": "" },
+        "saTh": { "max": 70, "obt": "" },
+        "theoryTotal": { "max": 100, "min": 40, "obt": "" },
+        "faPr": null,
+        "saPr": null,
+        "sla": { "max": 25, "min": 10, "obt": "" }
+      },
+      "subjectMaxMarks": 125
+    },
+    {
+      "srNo": 2,
+      "courseTitle": "Emerging Trends in Computer Engineering and Information Technology",
+      "abbreviation": "ETI",
+      "courseType": "DSC",
+      "courseCode": "316313",
+      "credits": 2,
+      "paperDuration": 1.5,
+      "assessment": {
+        "faTh": { "max": 30, "obt": "" },
+        "saTh": { "max": 70, "obt": "" },
+        "theoryTotal": { "max": 100, "min": 40, "obt": "" },
+        "faPr": null,
+        "saPr": null,
+        "sla": { "max": 25, "min": 10, "obt": "" }
+      },
+      "subjectMaxMarks": 125
+    },
+    {
+      "srNo": 3,
+      "courseTitle": "Software Testing",
+      "abbreviation": "SFT",
+      "courseType": "DSC",
+      "courseCode": "316314",
+      "credits": 4,
+      "paperDuration": 3,
+      "assessment": {
+        "faTh": { "max": 30, "obt": "" },
+        "saTh": { "max": 70, "obt": "" },
+        "theoryTotal": { "max": 100, "min": 40, "obt": "" },
+        "faPr": { "max": 25, "min": 10, "obt": "" },
+        "saPr": null,
+        "sla": { "max": 25, "min": 10, "obt": "" }
+      },
+      "subjectMaxMarks": 150
+    },
+    {
+      "srNo": 4,
+      "courseTitle": "Client Side Scripting",
+      "abbreviation": "CSS",
+      "courseType": "AEC",
+      "courseCode": "316005",
+      "credits": 3,
+      "paperDuration": null,
+      "assessment": {
+        "faTh": null,
+        "saTh": null,
+        "theoryTotal": null,
+        "faPr": { "max": 25, "min": 10, "obt": "" },
+        "saPr": { "max": 25, "min": 10, "obt": "" },
+        "sla": null
+      },
+      "subjectMaxMarks": 50
+    },
+    {
+      "srNo": 5,
+      "courseTitle": "Mobile Application Development",
+      "abbreviation": "MAD",
+      "courseType": "DSC",
+      "courseCode": "316006",
+      "credits": 4,
+      "paperDuration": null,
+      "assessment": {
+        "faTh": null,
+        "saTh": null,
+        "theoryTotal": null,
+        "faPr": { "max": 25, "min": 10, "obt": "" },
+        "saPr": { "max": 25, "min": 10, "obt": "" },
+        "sla": { "max": 25, "min": 10, "obt": "" }
+      },
+      "subjectMaxMarks": 75
+    },
+    {
+      "srNo": 6,
+      "courseTitle": "Capstone Project",
+      "abbreviation": "CPE",
+      "courseType": "INP",
+      "courseCode": "316004",
+      "credits": 2,
+      "paperDuration": null,
+      "assessment": {
+        "faTh": null,
+        "saTh": null,
+        "theoryTotal": null,
+        "faPr": { "max": 50, "min": 20, "obt": "" },
+        "saPr": { "max": 50, "min": 20, "obt": "" },
+        "sla": { "max": 50, "min": 20, "obt": "" }
+      },
+      "subjectMaxMarks": 150
+    },
+    {
+      "srNo": 7,
+      "courseTitle": "Machine Learning",
+      "abbreviation": "MAL",
+      "courseType": "DSE",
+      "courseCode": "316316",
+      "credits": 3,
+      "paperDuration": 3,
+      "assessment": {
+        "faTh": { "max": 30, "obt": "" },
+        "saTh": { "max": 70, "obt": "" },
+        "theoryTotal": { "max": 100, "min": 40, "obt": "" },
+        "faPr": { "max": 25, "min": 10, "obt": "" },
+        "saPr": { "max": 25, "min": 10, "obt": "" },
+        "sla": { "max": 25, "min": 10, "obt": "" }
+      },
+      "subjectMaxMarks": 175
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "semester": 6,
+  "totalMaxMarks": 850,
+  "totalCredits": 20,
+  "electiveSelected": {
+    "courseCode": "316316",
+    "courseTitle": "Machine Learning",
+    "abbreviation": "MAL"
+  },
+  "subjects": [
+    {
+      "srNo": 1,
+      "courseTitle": "Management",
+      "abbreviation": "MAN",
+      "courseType": "AEC",
+      "courseCode": "315301",
+      "credits": 2,
+      "paperDuration": 1.5,
+      "subjectMaxMarks": 125,
+      "assessment": {
+  "faTh": { "max": 30, "obt": "" },
+  "saTh": { "max": 70, "obt": "" },
+  "theoryTotal": { "max": 100, "obt": "" },
+  "faPr": null,
+  "saPr": null,
+  "sla": { "max": 25, "obt": "" }
+}
+    },
+    {
+      "srNo": 2,
+      "courseTitle": "Emerging Trends in Computer Engineering and Information Technology",
+      "abbreviation": "ETI",
+      "courseType": "DSC",
+      "courseCode": "316313",
+      "credits": 2,
+      "paperDuration": 1.5,
+      "subjectMaxMarks": 125,"assessment": {
+  "faTh": { "max": 30, "obt": "" },
+  "saTh": { "max": 70, "obt": "" },
+  "theoryTotal": { "max": 100, "obt": "" },
+  "faPr": null,
+  "saPr": null,
+  "sla": { "max": 25, "obt": "" }
+}
+    },
+    {
+      "srNo": 3,
+      "courseTitle": "Wireless and Mobile Network",
+      "abbreviation": "WMN",
+      "courseType": "DSC",
+      "courseCode": "316325",
+      "credits": 4,
+      "paperDuration": 3,
+      "subjectMaxMarks": 150,
+      "assessment": {
+        "faTh": { "max": 30, "obt": "" },
+        "saTh": { "max": 70, "obt": "" },
+        "theoryTotal": { "max": 100, "obt": "" },
+        "faPr": { "max": 25, "obt": "" },
+        "saPr": null,
+        "sla": { "max": 25, "obt": "" }
+      }
+    },
+    {
+      "srNo": 4,
+      "courseTitle": "Client Side Scripting",
+      "abbreviation": "CSS",
+      "courseType": "AEC",
+      "courseCode": "316005",
+      "credits": 3,
+      "paperDuration": null,
+      "subjectMaxMarks": 50,
+      "assessment": {
+        "faPr": { "max": 25, "obt": "" },
+        "saPr": { "max": 25, "obt": "" }
+      }
+    },
+    {
+      "srNo": 5,
+      "courseTitle": "Mobile Application Development",
+      "abbreviation": "MAD",
+      "courseType": "DSC",
+      "courseCode": "316006",
+      "credits": 4,
+      "paperDuration": null,
+      "subjectMaxMarks": 75,
+      "assessment": {
+        "faPr": { "max": 25, "obt": "" },
+        "saPr": { "max": 25, "obt": "" },
+        "sla": { "max": 25, "obt": "" }
+      }
+    },
+    {
+      "srNo": 6,
+      "courseTitle": "Capstone Project",
+      "abbreviation": "CPE",
+      "courseType": "INP",
+      "courseCode": "316004",
+      "credits": 2,
+      "paperDuration": null,
+      "subjectMaxMarks": 150,
+      "assessment": {
+        "faPr": { "max": 50, "obt": "" },
+        "saPr": { "max": 50, "obt": "" },
+        "sla": { "max": 50, "obt": "" }
+      }
+    },
+    {
+      "srNo": 7,
+      "courseTitle": "Machine Learning",
+      "abbreviation": "MAL",
+      "courseType": "DSE",
+      "courseCode": "316316",
+      "credits": 3,
+      "paperDuration": 3,
+      "subjectMaxMarks": 175,
+      "assessment": {
+        "faTh": { "max": 30, "obt": "" },
+        "saTh": { "max": 70, "obt": "" },
+        "theoryTotal": { "max": 100, "obt": "" },
+        "faPr": { "max": 25, "obt": "" },
+        "saPr": { "max": 25, "obt": "" },
+        "sla": { "max": 25, "obt": "" }
+      }
+    }
+  ]
+}

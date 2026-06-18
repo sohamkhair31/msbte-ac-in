@@ -1,0 +1,361 @@
+[
+  //SYCO
+  {
+    "enrollmentNo": "24151020531",
+    "name": "Khair Soham Sanjay"
+  },
+  {
+    "enrollmentNo": "24151020532",
+    "name": "Jogale Pranisha Mahesh"
+  },
+  {
+    "enrollmentNo": "24151020533",
+    "name": "Mohit Dipsika Jitendra"
+  },
+  {
+    "enrollmentNo": "24151020534",
+    "name": "Omakar Pournima Sunil"
+  },
+  {
+    "enrollmentNo": "24151020535",
+    "name": "Surve Smruti Umesh"
+  },
+  {
+    "enrollmentNo": "24151020536",
+    "name": "Shinde Vaishnavi Naresh"
+  },
+  {
+    "enrollmentNo": "24151020537",
+    "name": "Gopal Viraj Vinod"
+  },
+  {
+    "enrollmentNo": "24151020538",
+    "name": "Gamare Diksha Chandrakant"
+  },
+  {
+    "enrollmentNo": "24151020539",
+    "name": "Gaykar Avantika Prabhakar"
+  },
+  {
+    "enrollmentNo": "24151020540",
+    "name": "Kamble Arya Sanjay"
+  },
+  {
+    "enrollmentNo": "24151020541",
+    "name": "Mane Shravan Umesh"
+  },
+  {
+    "enrollmentNo": "24151020542",
+    "name": "Gopal Vrushali Vijay"
+  },
+  {
+    "enrollmentNo": "24151020543",
+    "name": "Mirlekar Palash Chinmay"
+  },
+  {
+    "enrollmentNo": "24151020544",
+    "name": "Naralkar Amisha Anant"
+  },
+  {
+    "enrollmentNo": "24151020545",
+    "name": "Shinde Rugved Ranjeet"
+  },
+  {
+    "enrollmentNo": "24151020546",
+    "name": "Ghadoe Sarthak Anant"
+  },
+  {
+    "enrollmentNo": "24151020547",
+    "name": "Mahadik Shreyas Milind"
+  },
+  {
+    "enrollmentNo": "24151020548",
+    "name": "Pawar Atharva Pradeep"
+  },
+  {
+    "enrollmentNo": "24151020549",
+    "name": "Hande Ruvved Rajesh"
+  },
+  {
+    "enrollmentNo": "24151020550",
+    "name": "Kamble Siddhi Vijay"
+  },
+  {
+    "enrollmentNo": "24151020551",
+    "name": "Yelonde Trunali Tukaram"
+  },
+  {
+    "enrollmentNo": "24151020552",
+    "name": "Kumbhar Vedika Sachin"
+  },
+  {
+    "enrollmentNo": "24151020553",
+    "name": "Vele Siddhi Shivaji"
+  },
+  {
+    "enrollmentNo": "24151020555",
+    "name": "Chitale Ishan Mandar"
+  },
+  {
+    "enrollmentNo": "24151020556",
+    "name": "Hire Shreya Vinod"
+  },
+  {
+    "enrollmentNo": "24151020557",
+    "name": "Suvare Vighnesh Mahesh"
+  },
+  {
+    "enrollmentNo": "24151020559",
+    "name": "Dike Amey Sanjay"
+  },
+  {
+    "enrollmentNo": "24151020560",
+    "name": "Madage Atharv Atmaram"
+  },
+  {
+    "enrollmentNo": "24151020561",
+    "name": "Khapare Rutika Vilas"
+  },
+  {
+    "enrollmentNo": "24151020562",
+    "name": "Chavan Vaishnav Pratap"
+  },
+  {
+    "enrollmentNo": "24151020563",
+    "name": "Satale Sumit Sitaram"
+  },
+  {
+    "enrollmentNo": "24151020564",
+    "name": "Sutar Suraj Mangesh"
+  },
+  {
+    "enrollmentNo": "24151020565",
+    "name": "Ambavkar Riya Naresh"
+  },
+  {
+    "enrollmentNo": "24151020566",
+    "name": "Jadhav Gauri Sanjay"
+  },
+  {
+    "enrollmentNo": "24151020567",
+    "name": "Panchal Riddhi Rajendra"
+  },
+  {
+    "enrollmentNo": "24151020568",
+    "name": "Pelekar Manas Rajesh"
+  },
+  {
+    "enrollmentNo": "24151020569",
+    "name": "Humane Sahil Satish"
+  },
+  {
+    "enrollmentNo": "24151020570",
+    "name": "Khambe Omkar Vishvas"
+  },
+  {
+    "enrollmentNo": "24151020571",
+    "name": "Wadkar Vedant Vijay"
+  },
+  {
+    "enrollmentNo": "24151020572",
+    "name": "Malvankar Vaishnavi Vishvas"
+  },
+  {
+    "enrollmentNo": "24151020573",
+    "name": "Kajari Saurabh Subhash"
+  },
+  {
+    "enrollmentNo": "24151020574",
+    "name": "Bane Saniya Sandip"
+  },
+  {
+    "enrollmentNo": "24151020575",
+    "name": "Gomane Saurabh Ganpat"
+  },
+  {
+    "enrollmentNo": "24151020576",
+    "name": "Gurkhe Soham Sakharam"
+  },
+  {
+    "enrollmentNo": "24151020577",
+    "name": "Pawar Parth Vaibhav"
+  },
+  {
+    "enrollmentNo": "24151020578",
+    "name": "Niwalkar Rishabh Mangesh"
+  },
+  {
+    "enrollmentNo": "24151020579",
+    "name": "Adekar Ayush Vijay"
+  },
+  {
+    "enrollmentNo": "24151020580",
+    "name": "Bole Chirag Gangaram"
+  },
+  {
+    "enrollmentNo": "24151020581",
+    "name": "Shinde Ruturaj Rajendra"
+  },
+  {
+    "enrollmentNo": "24151020582",
+    "name": "Chavan Diksha Dinesh"
+  },
+  {
+    "enrollmentNo": "24151020583",
+    "name": "Samiksha Sandip Patil"
+  },
+  {
+    "enrollmentNo": "24151020585",
+    "name": "Bole Niyati Sanjay"
+  },
+  {
+    "enrollmentNo": "24151020586",
+    "name": "Soham Ankush Gaikwad"
+  },
+  {
+    "enrollmentNo": "24151020587",
+    "name": "Pawar Siddhi Vishnu"
+  },
+  {
+    "enrollmentNo": "25151020591",
+    "name": "Shinde Sanskar Kuldeep"
+  },
+  {
+    "enrollmentNo": "25151020592",
+    "name": "Jadhav Rahul Sharad"
+  },
+  {
+    "enrollmentNo": "25151020593",
+    "name": "Chavan Vaidehi Sanjay"
+  },
+  {
+    "enrollmentNo": "25151020594",
+    "name": "Kadam Piyush Pravin"
+  },
+  {
+    "enrollmentNo": "25151020595",
+    "name": "Mohite Diya Mangesh"
+  },
+  {
+    "enrollmentNo": "25151020596",
+    "name": "Chiplunkar Arayan Ramdas"
+  },
+  {
+    "enrollmentNo": "25151020597",
+    "name": "Suvare Sanchit Sanjay"
+  },
+  {
+    "enrollmentNo": "25151020598",
+    "name": "Desai Tejas Mangesh"
+  },
+  {
+    "enrollmentNo": "25151020599",
+    "name": "Salvi Anuj Vijay"
+  },
+  {
+    "enrollmentNo": "25151020600",
+    "name": "Gujar Sarvesh Sanjeevkumar"
+  },
+  {
+    "enrollmentNo": "25151020601",
+    "name": "Dubey Shivkumar Ravindra"
+  },
+  {
+    "enrollmentNo": "25151020602",
+    "name": "Vaskar Raju Mangesh"
+  }
+,
+
+
+//TYCO
+   {"enrollmentNo":"23151020532","name":"Kokane Soham Mahendra"},
+  {"enrollmentNo":"23151020533","name":"Dhotre Jagannath"},
+  {"enrollmentNo":"23151020534","name":"Gharat Paras Shailesh"},
+  {"enrollmentNo":"23151020535","name":"Samjiskar Harshad"},
+  {"enrollmentNo":"23151020536","name":"Sawardekar Nitesh Namdev"},
+  {"enrollmentNo":"23151020537","name":"Shinde Rudra Pravin"},
+  {"enrollmentNo":"23151020539","name":"Kadam Prajyot Pradip"},
+  {"enrollmentNo":"23151020540","name":"Burate Arya Vasant"},
+  {"enrollmentNo":"23151020542","name":"Sawant Rutuja Sanjay"},
+  {"enrollmentNo":"23151020543","name":"Mali Vedant Dilip"},
+  {"enrollmentNo":"23151020545","name":"Heman Yash Dilip"},
+  {"enrollmentNo":"23151020546","name":"Saniya Mahendra Kadam"},
+  {"enrollmentNo":"23151020547","name":"Lad Rugved Jayant"},
+  {"enrollmentNo":"23151020548","name":"Halde Sanchit Chandrakant"},
+  {"enrollmentNo":"23151020549","name":"Gamare Chandana Arun"},
+  {"enrollmentNo":"23151020550","name":"Chavan Arya Sachin"},
+  {"enrollmentNo":"23151020552","name":"Ranjane Makarand Madan"},
+  {"enrollmentNo":"23151020553","name":"Kamble Swapnaj Kishor"},
+  {"enrollmentNo":"23151020554","name":"Mohite Sameer Mangesh"},
+  {"enrollmentNo":"23151020555","name":"Jadhav Chandana Ajit"},
+  {"enrollmentNo":"23151020556","name":"Vesvikar Diksha Mangesh"},
+  {"enrollmentNo":"23151020557","name":"Mahadik Swaraj Sanjay"},
+  {"enrollmentNo":"23151020558","name":"Kolekar Mohammadraees"},
+  {"enrollmentNo":"23151020559","name":"Sawant Salina Zaboor"},
+  {"enrollmentNo":"23151020561","name":"Sawant Sejal Rajendra"},
+  {"enrollmentNo":"23151020564","name":"Gadade Atharva Jitendra"},
+  {"enrollmentNo":"23151020565","name":"Gayakwad Siddhi Santosh"},
+  {"enrollmentNo":"23151020566","name":"Malim Ruman Nasir"},
+  {"enrollmentNo":"23151020567","name":"Joshi Sahish Manohar"},
+  {"enrollmentNo":"23151020568","name":"Bhuvad Riya Vijay"},
+  {"enrollmentNo":"23151020570","name":"Telange Parth Dattatray"},
+  {"enrollmentNo":"23151020571","name":"Pandit Parth Pravin"},
+  {"enrollmentNo":"23151020572","name":"Panhalkar Sahil Ali"},
+  {"enrollmentNo":"23151020573","name":"Gujar Atharva Santosh"},
+  {"enrollmentNo":"23151020574","name":"Kodare Sahil Bandya"},
+  {"enrollmentNo":"23151020576","name":"Patil Shardul Shivaji"},
+  {"enrollmentNo":"23151020577","name":"Kanjar Ankita Sunil"},
+  {"enrollmentNo":"23151020578","name":"Sarnaik Adiba Rauf Khan"},
+  {"enrollmentNo":"23151020581","name":"Bendal Harsh Umesh"},
+  {"enrollmentNo":"23151020584","name":"Gotekar Mehran Maqbool"},
+  {"enrollmentNo":"23151020585","name":"Chavan Harshal Ramakant"},
+  {"enrollmentNo":"23151020586","name":"Nadar Jeberson Jebaraj"},
+  {"enrollmentNo":"24151020588","name":"Salunkhe Ritesh Pramod"},
+  {"enrollmentNo":"24151020589","name":"Kadam Sachin Prashant"},
+  {"enrollmentNo":"24151020590","name":"Khasase Omkar Ravindra"},
+  {"enrollmentNo":"24151020591","name":"Walele Aashna"},
+  {"enrollmentNo":"24151020592","name":"Kilaje Nirjara Nandkumar"},
+  {"enrollmentNo":"24151020593","name":"Bavdane Disha Dilip"},
+  {"enrollmentNo":"24151020594","name":"Nalawade Sanika Ajay"},
+  {"enrollmentNo":"24151020595","name":"Ghadshi Omkar Mangesh"},
+  {"enrollmentNo":"24151020596","name":"Kalap Atharv Santosh"},
+  {"enrollmentNo":"24151020597","name":"Kadam Ayush Sudesh"},
+  {"enrollmentNo":"24151020598","name":"Bargode Pranav Sitaram"},
+  {"enrollmentNo":"24151020600","name":"Chande Divya Prakash"},
+  {"enrollmentNo":"24151020601","name":"Sawardekar Utkarsh"},
+
+  //TYIF
+    {
+    "enrollmentNo": "23151020544",
+    "name": "Lad Tanvi Rajendra"
+  },
+  {
+    "enrollmentNo": "23151020752",
+    "name": "Mulla Akil Ali"
+  },
+  {
+    "enrollmentNo": "23151020754",
+    "name": "Gosavi Soham Santosh"
+  },
+  {
+    "enrollmentNo": "23151020756",
+    "name": "Shelar Siddhi Vinod"
+  },
+  {
+    "enrollmentNo": "23151020757",
+    "name": "Bhalekar Sanika Sanjay"
+  },
+  {
+    "enrollmentNo": "23151020758",
+    "name": "Patil Vedant Kishor"
+  },
+  {
+    "enrollmentNo": "23151020759",
+    "name": "Patil Ameya Suryakant"
+  },
+  {
+    "enrollmentNo": "23151020760",
+    "name": "Revadekar Yash Santosh"
+  }
+
+]
